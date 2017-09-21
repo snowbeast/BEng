@@ -1,2 +1,1 @@
-# BEng
-Bachelor's of Electrical Engineering Projects
+[![Stories in Ready](https://badge.waffle.io/snowbeast/BEng.png?label=ready&title=Ready)](http://waffle.io/snowbeast/BEng)
